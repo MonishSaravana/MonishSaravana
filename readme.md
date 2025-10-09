@@ -17,6 +17,7 @@
 ### 💡 about me
 
 - high school student passionate about cs, robotics, edtech, and building things that actually help people
+- head of marketing @ [claisen](https://www.claisen.com/)
 - founder @ [ftcelo](https://monishsaravana.com/ftcelo) • 5k+ users across 25+ countries  
 - created [portfoliobuddy](https://monishsaravana.com/portfoliobuddy) to help robotics teams present themselves better  
 - patent-pending + published: [**OCTOPAS**](https://doi.org/10.5281/zenodo.15596105) (oil spill cleanup), [**LIPTRAC**](https://monishsaravana.com/liptrac.html) (AI lipreading for accessibility)  
@@ -41,6 +42,6 @@
 
 ### 🌱 currently
 
-- working on publishing LIPTRAC + building it out as a real initiative  
+- working on growing [claisen](https://www.claisen.com/) to $100B
 - learning swift + ios dev 
 ---
