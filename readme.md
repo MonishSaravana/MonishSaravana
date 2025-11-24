@@ -42,6 +42,6 @@
 
 ### 🌱 currently
 
-- working on growing [claisen](https://www.claisen.com/) to $100B
+- working on growing [claisen](https://www.claisen.com/) to the moon 
 - learning swift + ios dev 
 ---
