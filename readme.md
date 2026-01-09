@@ -42,6 +42,6 @@
 
 ### 🌱 currently
 
-- working on growing [claisen](https://www.claisen.com/) to the moon 
+- working on robotics! [vanta](https://www.team31000.org/) 
 - learning swift + ios dev 
 ---
