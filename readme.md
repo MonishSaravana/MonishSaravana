@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm monish 👋</h1>
+<h1 align="center">hi, i'm monish, a student at harvard 👋</h1>
 
 <p align="center">
   student. builder. entrepreneur.
@@ -9,14 +9,13 @@
   <a href="mailto:monish.sd.2008@gmail.com">📧 email</a> • 
   <a href="https://www.linkedin.com/in/monish-skds">💼 linkedin</a> • 
   <a href="https://orcid.org/0009-0009-3349-3976">🧬 orcid</a> • 
-  <a>  hs senior </a>
+
 </p>
 
 ---
 
 ### 💡 about me
 
-- high school senior
 - check me out at [monishsaravana.com](https://monishsaravana.com/)! 
 
 ---
