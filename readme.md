@@ -1,7 +1,11 @@
-<h1 align="center">hi, i'm monish, studying economics at harvard 👋</h1>
+<h1 align="center">hi, i'm monish 👋</h1>
+
+
 
 <p align="center">
-  student. builder. entrepreneur.
+  student. builder. entrepreneur. 
+  <br> 
+  econ @ harvard 
 </p>
 
 <p align="center">
