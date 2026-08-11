@@ -3,9 +3,9 @@
 
 
 <p align="center">
-  student. builder. entrepreneur. 
   <br> 
-  econ @ harvard 
+Hi! I'm Monish. I'm 18, a student at Harvard, and I like making things. I'm currently super interested in consumer startups, social media marketing, and behavioral economics! I'm always happy to chat about anything, so feel free to reach out :)
+
 </p>
 
 <p align="center">
