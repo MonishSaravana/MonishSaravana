@@ -4,7 +4,12 @@
 
 <p align="center">
   <br> 
-Hi! I'm Monish. I'm 18, a student at Harvard, and I like making things. I'm currently super interested in consumer startups, social media marketing, and behavioral economics! I'm always happy to chat about anything, so feel free to reach out :)
+hi, i'm monish 👋 harvard '30. 
+i'm into robotics, machine learning, and human-computer interaction systems.
+
+previously: computer vision research, autonomous robotics, and developer tools used by thousands of robotics teams. currently exploring embodied ai + human-robot interaction.
+
+I'm always happy to chat about anything, so feel free to reach out :)
 
 </p>
 
@@ -12,7 +17,7 @@ Hi! I'm Monish. I'm 18, a student at Harvard, and I like making things. I'm curr
   <a href="https://monishsaravana.com">🌐 monishsaravana.com</a> • 
   <a href="mailto:monish.sd.2008@gmail.com">📧 email</a> • 
   <a href="https://www.linkedin.com/in/monish-skds">💼 linkedin</a> • 
-  <a href="https://orcid.org/0009-0009-3349-3976">🧬 orcid</a> • 
+  <a href="https://orcid.org/0009-0009-3349-3976">🧬 orcid</a> 
 
 </p>
 
