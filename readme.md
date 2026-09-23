@@ -4,8 +4,7 @@
 
 <p align="center">
   <br> 
-hi, i'm monish 👋 harvard '30. 
-i'm into robotics, machine learning, and human-computer interaction systems.
+i'm an undergrad at harvard, interested in robotics, machine learning, and human-computer interaction systems.
 
 previously: computer vision research, autonomous robotics, and developer tools used by thousands of robotics teams. currently exploring embodied ai + human-robot interaction.
 
@@ -20,11 +19,5 @@ I'm always happy to chat about anything, so feel free to reach out :)
   <a href="https://orcid.org/0009-0009-3349-3976">🧬 orcid</a> 
 
 </p>
-
----
-
-### 💡 about me
-
-- check me out at [monishsaravana.com](https://monishsaravana.com/)! 
 
 ---
